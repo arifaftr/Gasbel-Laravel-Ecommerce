@@ -1016,9 +1016,9 @@
           </div>
 
           <!-- Wishlist -->
-          <button class="nav-icon-btn" type="button" title="Wishlist">
+          <!-- <button class="nav-icon-btn" type="button" title="Wishlist">
             <i class="bi bi-heart"></i>
-          </button>
+          </button> -->
 
           <!-- Cart -->
           <a href="{{ route('cart.index') }}" class="nav-icon-btn position-relative" title="Keranjang Belanja">
